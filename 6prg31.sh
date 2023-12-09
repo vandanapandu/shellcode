@@ -17,5 +17,6 @@ else
       Total marks:`echo $1+$2+$3+$4+$5 | bc`
       Average is: `echo "scale=2;($1+$2+$3+$4+$5)/5" | bc`"
 fi
+#this line can be added
 #End of the script
   
